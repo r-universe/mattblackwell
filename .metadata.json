@@ -1,0 +1,14 @@
+[
+  {
+    "package": "DirectEffects",
+    "oncran": true
+  },
+  {
+    "package": "factiv",
+    "oncran": true
+  },
+  {
+    "package": "inters",
+    "oncran": true
+  }
+]
