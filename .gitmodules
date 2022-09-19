@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DirectEffects"]
-	path = DirectEffects
-	url = https://github.com/mattblackwell/directeffects
-	shallow = true
-	registered = true
 [submodule "factiv"]
 	path = factiv
 	url = https://github.com/mattblackwell/factiv

@@ -1,9 +1,5 @@
 [
   {
-    "package": "DirectEffects",
-    "oncran": true
-  },
-  {
     "package": "factiv",
     "oncran": true
   },
