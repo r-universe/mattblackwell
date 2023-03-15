@@ -1,5 +1,9 @@
 [
   {
+    "package": "causalsens",
+    "oncran": true
+  },
+  {
     "package": "DirectEffects",
     "oncran": true
   },

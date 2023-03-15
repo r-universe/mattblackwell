@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "causalsens"]
+	path = causalsens
+	url = https://github.com/mattblackwell/causalsens
+	shallow = true
+	registered = true
 [submodule "DirectEffects"]
 	path = DirectEffects
 	url = https://github.com/mattblackwell/directeffects
