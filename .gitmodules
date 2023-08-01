@@ -5,12 +5,12 @@
 [submodule "Amelia"]
 	path = Amelia
 	url = https://github.com/cran/Amelia
-[submodule "causalsens"]
-	path = causalsens
-	url = https://github.com/mattblackwell/causalsens
 [submodule "DirectEffects"]
 	path = DirectEffects
 	url = https://github.com/mattblackwell/directeffects
+[submodule "causalsens"]
+	path = causalsens
+	url = https://github.com/mattblackwell/causalsens
 [submodule "factiv"]
 	path = factiv
 	url = https://github.com/mattblackwell/factiv
