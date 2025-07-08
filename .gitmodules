@@ -17,3 +17,6 @@
 [submodule "inters"]
 	path = inters
 	url = https://github.com/mattblackwell/inters
+[submodule "prepost"]
+	path = prepost
+	url = https://github.com/mattblackwell/prepost
